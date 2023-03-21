@@ -4,7 +4,13 @@
     // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "SobreMimScanner",
+            "request": "launch",
+            "mainClass": "SobreMimScanner",
+            "projectName": "java-terminal_4b4ed432"
+        },
         {
             "type": "java",
             "name": "Current File",
@@ -28,8 +34,8 @@
                 "Everton",
                 "Lira",
                 "23",
-                "1.90"   
-             ]
+                "1.90"
+            ]
         }
     ]
 }
